@@ -1,0 +1,10 @@
+C:\Users\THANH\source\repos\baitapvenha\baitapvenha\bin\Debug\baitapvenha.exe.config
+C:\Users\THANH\source\repos\baitapvenha\baitapvenha\bin\Debug\baitapvenha.exe
+C:\Users\THANH\source\repos\baitapvenha\baitapvenha\bin\Debug\baitapvenha.pdb
+C:\Users\THANH\source\repos\baitapvenha\baitapvenha\obj\Debug\baitapvenha.csproj.AssemblyReference.cache
+C:\Users\THANH\source\repos\baitapvenha\baitapvenha\obj\Debug\baitapvenha.Form1.resources
+C:\Users\THANH\source\repos\baitapvenha\baitapvenha\obj\Debug\baitapvenha.Properties.Resources.resources
+C:\Users\THANH\source\repos\baitapvenha\baitapvenha\obj\Debug\baitapvenha.csproj.GenerateResource.cache
+C:\Users\THANH\source\repos\baitapvenha\baitapvenha\obj\Debug\baitapvenha.csproj.CoreCompileInputs.cache
+C:\Users\THANH\source\repos\baitapvenha\baitapvenha\obj\Debug\baitapvenha.exe
+C:\Users\THANH\source\repos\baitapvenha\baitapvenha\obj\Debug\baitapvenha.pdb
